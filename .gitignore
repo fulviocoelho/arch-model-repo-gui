@@ -1,0 +1,13 @@
+config.yaml
+arch-model-repo
+/arch-model-repo
+arch-model-repo/*
+project-repo
+node_modules
+yarn.lock
+run.spec
+update.spec
+build
+dist
+.husky/_
+run.exe
