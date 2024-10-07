@@ -12,6 +12,28 @@ Para utilizar esta aplicação, você precisa ter instalado as seguintes ferrame
 * **Node:** Para executar a aplicação web front-end.
 * **NPM:** Para gerenciar as dependências JavaScript.
 * **Yarn:** Para gerenciar as dependências JavaScript.
+* **Java:** Para converter codigo plantuml em imagens.
+
+### Downloads
+
+* **Git**
+    * [Link para download](https://git-scm.com/downloads)
+    * Execute o seguite comando para verificar se a instalação foi vem sucedida: `git --version`
+* **Python**
+    * [Link para download](https://www.python.org/downloads/)
+    * [Link para download Windows](https://www.microsoft.com/store/productId/9NCVDN91XZQP?ocid=pdpshare)
+    * Execute o seguite comando para verificar se a instalação do python foi vem sucedida: `python --version`
+    * Execute o seguite comando para verificar se a instalação do pip foi vem sucedida: `pip --version`
+* **Node**
+    * [Link para download](https://nodejs.org/pt)
+    * Execute o seguite comando para verificar se a instalação do node foi vem sucedida: `node --version`
+    * Execute o seguite comando para verificar se a instalação do npm foi vem sucedida: `npm --version`
+* **Yarn**
+    * Execute o seguinte comando para instalar: `npm install -g yarn`
+    * Execute o seguite comando para verificar se a instalação foi vem sucedida: `yarn --version`
+* **Java**
+    * [Link para download](https://www.java.com/pt-BR/download/ie_manual.jsp?locale=pt_BR)
+    * Execute o seguite comando para verificar se a instalação foi vem sucedida: `java -version`
 
 ## Instalação
 

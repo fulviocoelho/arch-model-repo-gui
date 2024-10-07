@@ -4,7 +4,6 @@ from tkinter import messagebox, filedialog
 import yaml
 import webbrowser, os
 import shutil
-import subprocess
 import threading
 
 # Variável global para armazenar o caminho da pasta

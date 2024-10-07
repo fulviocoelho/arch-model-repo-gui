@@ -6,7 +6,7 @@
   "author": "Fulvio Coelho <contato@fulviocoelho.dev>",
   "license": "MIT",
   "scripts": {
-    "setup": "yarn && pip install pyinstaller && yarn build-updater",
+    "setup": "yarn && pip install pyinstaller pyyaml && yarn build-updater",
     "build-run": "python -m PyInstaller run.py --onefile",
     "build-updater": "python -m PyInstaller update.py --onefile"
   },
